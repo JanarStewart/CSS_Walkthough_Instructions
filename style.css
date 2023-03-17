@@ -1,0 +1,18 @@
+html {
+    background-color: aquamarine;
+}
+
+#list-one {
+    color: blueviolet;
+    font-size: larger;
+}
+
+#list-two {
+    color: crimson;
+    font-size: medium;
+}
+
+#list-three {
+    color: purple;
+    font-size: smaller;
+}
